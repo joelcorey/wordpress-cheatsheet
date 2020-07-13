@@ -1,10 +1,8 @@
 ## Wordpress Cheat Sheet!
-1.  **Create a WordPress site.**
-
-    Use stuffs to do stuffs .. 
-
-    ```docker-compose up
-    ```
+1.  **Install things**
+    Install Docker and then:
+    docker-compose up
+    
 
 **Why WordPress sucks**
 
@@ -17,7 +15,12 @@
 
     Everyone and their mums knows about WordPress?
 
+
 ## 🧐 What's inside?
 
-A quick look at the blah blah..
+Taken from:
+```https://docs.docker.com/compose/wordpress/```
+This is a quick development environment that is locally mapped to the file-system.
+
+
 
